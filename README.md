@@ -1,7 +1,7 @@
 
 
 
-# Aplicativo simples de lista de tarefas orientada pelo professor Edson M. de Souza.
+# Aplicativo simples de lista de tarefas orientada pelo professor @EdsonMSouza.
 
 Flutter + API PHP (criada por Edson M. de Souza)
 
